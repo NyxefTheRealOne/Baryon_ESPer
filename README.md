@@ -50,13 +50,13 @@ The goal of this step is to build the following circuit:
    Connect `Pin 5` to the **middle pin** of the PSP's battery terminal.
 
    > 💡 **Tip:** It helps to make a 3-pin connector by sticking three wires into a small piece of wood or plastic (as shown in the picture below) so they stay evenly spaced and can plug into the PSP terminal cleanly. Connect the middle pin to the ESP's `Pin 5`.
-         <img width="128" height="128" alt="PSP_Side_Connector" src="https://github.com/user-attachments/assets/f6ea77f9-b944-4d97-84f2-86b21ffb6532" />
+<img width="128" height="128" alt="PSP_Side_Connector" src="https://github.com/user-attachments/assets/f6ea77f9-b944-4d97-84f2-86b21ffb6532" />
 
 4. **Connect the battery positive (`+`):**
    Connect the **right pin** of the PSP's battery terminal to the **`+` terminal of your PSP battery**.
 
    > 💡 **Tip:** It's recommended to make a separate 2-pin connector for the battery side, and a 3-pin connector for the PSP side.
-         <img width="128" height="128" alt="PSP_Side_Connector" src="https://github.com/user-attachments/assets/d86838db-31aa-4fd8-b619-5cbe8b9abbbd" />
+<img width="128" height="128" alt="PSP_Side_Connector" src="https://github.com/user-attachments/assets/d86838db-31aa-4fd8-b619-5cbe8b9abbbd" />
 
 5. **Connect ground:**
    Link the ESP32's `GND` to **both**:
