@@ -30,8 +30,8 @@ Baryon ESPer lets you use a cheap ESP32 microcontroller to replicate the PSP Bar
 
 The goal of this step is to build the following circuit:
 
-> 📷 `[INSERT final_circuit_diagram image here]`
-> 📷 `[INSERT final_circuit_build image here]`
+<img width="1080" height="1080" alt="Final_Circuit_Diagram" src="https://github.com/user-attachments/assets/83558f36-383d-49c5-9a82-75bc09364509" />
+<img width="1080" height="1080" alt="Final_Circuit_Picutre" src="https://github.com/user-attachments/assets/ef78a2c7-5c17-458d-a9ff-b598dfbec593" />
 
 ### Wiring steps
 
