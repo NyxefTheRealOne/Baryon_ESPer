@@ -1,6 +1,6 @@
 # Baryon ESPer
 ### A PSP Baryon Sweeper port for ESP32 — easier, more accessible PSP unbricking
-*Original Baryon Sweeper by Nyxef — ESP32 port guide*
+*Original Baryon Sweeper by khubik2 — ESP32 port guide*
 
 ---
 
